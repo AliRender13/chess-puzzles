@@ -76,3 +76,7 @@ Every generated puzzle gets 1–5 stars from real search data:
   generation just gets slower (that's the fun of search).
 
 Built by [Mohammad Ali](https://github.com/AliRender13).
+
+## In the wild
+
+- 🎥 [Code walkthrough video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7511664513130258432/) — the chess engine proving forced mates, generating verified puzzles, and the trainer's streak & blitz modes in action.
